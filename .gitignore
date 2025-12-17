@@ -76,3 +76,5 @@ DerivedDataCache/*
 # Temp Files
 Config/DefaultEditorPerProjectUserSettings.ini
 
+/Intermediate
+/Saved
